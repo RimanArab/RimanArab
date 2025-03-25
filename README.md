@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Riman Arab, a passionate developer with experience in Python, Unity, and software development. I love building innovative projects that solve real-world problems and showcase my skills.
 <!--
 **RimanArab/RimanArab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
